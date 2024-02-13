@@ -44,7 +44,6 @@ kotlin {
         val iosTest by getting
         val iosSimulatorArm64Main by getting
         val iosSimulatorArm64Test by getting
-
     }
 }
 
